@@ -9,8 +9,9 @@ SberCloud level 7 administrators require v1 key
 
 ---------------------
 Info
-Encryption function = sha1(md5($text).$salt);
 ---------------------
+Encryption function = sha1(md5($text).$salt);
+
 SHA-1 + MD5
 --------------------------------------------------
 Dcom = 94de6d42da9d98ed849b8e40032e117531
