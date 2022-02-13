@@ -1,19 +1,5 @@
-Can't initialize port com4:
 
-
-Trying to reset card...
-Reset Successful
-
-RX ATR  : 3B 24 00 30 42 30 30 
-
-Timeout from 58 command
-
-Executing Script: C:\Documents and Settings\Ola\Pulpit\rsa\2_script_test_validity.xpl
-
-Trying to reset card...
-Reset Successful
-
-RX ATR  : 3B 24 00 30 42 30 30 
+RX ATR  : 3B 24 00 30 42 30 30
 TX Data : DD A2 00 00 6F 
 RX Data : A2 
 TX Data : 14 6D 02 81 70 69 70 62 64 20 02 2A F2 BA B4 47 
@@ -223,5 +209,3 @@ RX Data : 81 4C 54 02 00 08 73 5B 1D 5B E4 AA 70 D2 36 E7
           42 54 9D 3D 92 CA F1 F0 2A 62 EA 84 D2 44 31 02 
           40 00 
 RX Data : 90 00 
-
-Script C:\Documents and Settings\Ola\Pulpit\rsa\2_script_test_validity.xpl Transmission Completed
